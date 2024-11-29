@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuración inicial
-PROJECT_NAME="DavidPylance"
+PROJECT_NAME="."
 
 echo "Iniciando la creación del proyecto $PROJECT_NAME..."
 
