@@ -91,6 +91,6 @@ EOL
 
 # Finalizar configuración
 echo "Creación de proyecto completada. Estructura generada:"
-tree $PROJECT_NAME
+# tree $PROJECT_NAME
 
 echo "¡Proyecto $PROJECT_NAME creado con éxito!"
