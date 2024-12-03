@@ -1,19 +1,3 @@
-Paso 1:
-Crear tu archivo .sh
-
-
-Paso 2:
-Dale permisos de ejecución al script:
-
-Comando
-chmod +x namearchive.sh
-
-Paso 3: 
-Ejecútalo desde la raíz de tu proyecto:
-
-Comando
-./setup_project.sh
-
 
 # Guía Rápida para Configuración del Proyecto
 
@@ -36,6 +20,6 @@ chmod +x namearchive.sh
 Ejecuta el archivo .sh desde la raíz de tu proyecto:
 
 ```bash
-chmod +x namearchive.sh
+./namearchive.sh
 
 ```
